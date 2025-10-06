@@ -23,7 +23,7 @@ repository               : "https://kimberlyarivera.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Kim_profile.jpg"
+  avatar           : "Kim_profile.png"
   name             : "Kimberly A Rivera"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist"
