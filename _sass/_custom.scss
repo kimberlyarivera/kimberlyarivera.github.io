@@ -1,0 +1,5 @@
+/* Make the profile/author image square */
+.author__avatar img {
+  border-radius: 0 !important; /* removes circular shape */
+  object-fit: cover;           /* keeps image neatly filled */
+}
